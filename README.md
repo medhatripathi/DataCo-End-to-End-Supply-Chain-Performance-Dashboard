@@ -119,30 +119,30 @@ Granular analysis for specific products.
 
 #### 💡 Insight 1: Regional Delivery Gap
 
--Finding → Central America has 45% late delivery rate (vs. 23% average)
--Impact → Identified $50K+ potential savings in penalty costs
--Action → Flagged for carrier review and SLA renegotiation
+- Finding → Central America has 45% late delivery rate (vs. 23% average)
+- Impact → Identified $50K+ potential savings in penalty costs
+- Action → Flagged for carrier review and SLA renegotiation
 
 #### 💡 Insight 2: Shipping Mode Optimization
 
--Finding → "Same Day" shipping achieves 95% OTD vs. 72% for "Standard"
--Impact → Opportunity to improve high-value order delivery
--Action → Recommended tiered shipping by order value
+- Finding → "Same Day" shipping achieves 95% OTD vs. 72% for "Standard"
+- Impact → Opportunity to improve high-value order delivery
+- Action → Recommended tiered shipping by order value
 
 #### 💡 Insight 3: Product Prioritization
 
--Finding → 18% of SKUs (Class A) drive 80% of revenue
-Impact → Focused inventory management on 200 critical products
-Action → Increased safety stock for Class A items
+- Finding → 18% of SKUs (Class A) drive 80% of revenue
+- Impact → Focused inventory management on 200 critical products
+- Action → Increased safety stock for Class A items
 
 #### 💡 Insight 4: Seasonal Capacity Gap
 
-Finding → Q4 shows 35% revenue spike with 15% OTD decline
-Impact → Identified capacity planning issue during peak season
-Action → Recommended pre-positioning inventory before October
+- Finding → Q4 shows 35% revenue spike with 15% OTD decline
+- Impact → Identified capacity planning issue during peak season
+- Action → Recommended pre-positioning inventory before October
 
 #### 💡 Insight 5: Supplier Performance Issues
 
-Finding → 3 suppliers have >30% late delivery rate
-Impact → Directly affecting fill rates and customer satisfaction
-Action → Created supplier scorecard for procurement review
+- Finding → 3 suppliers have >30% late delivery rate
+- Impact → Directly affecting fill rates and customer satisfaction
+- Action → Created supplier scorecard for procurement review
