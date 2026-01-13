@@ -2,6 +2,7 @@
 An interactive Power BI dashboard analyzing 180K+ orders to optimize supply chain operations, improve delivery performance, and drive data-informed decision-making.
 ![Dashboard Preview](https://github.com/medhatripathi/DataCo-End-to-End-Supply-Chain-Performance-Dashboard/blob/main/Pg1Executive_Summary.png)
 
+---
 
 # 🛠 Tech Stack
 
@@ -12,6 +13,7 @@ An interactive Power BI dashboard analyzing 180K+ orders to optimize supply chai
 | **DAX** | Business logic & calculated measures |
 | **GitHub** | Version control & documentation |
 
+---
 
 # 📁 Data Source
 
@@ -32,6 +34,7 @@ An interactive Power BI dashboard analyzing 180K+ orders to optimize supply chai
 * Customer segments & geography
 * Shipping modes & carriers
 
+---
 
 # ✨ Features & Highlights
 
@@ -51,6 +54,7 @@ Enable supply chain leaders to:
 * Track monthly trends and seasonal patterns
 * Drill into product-level details for root cause analysis
 
+---
 
 ### Dashboard Walkthrough
 
@@ -114,6 +118,7 @@ Granular analysis for specific products.
 | Monthly Sales Trend | How does this product perform over time? |
 | Order Details Table | What are the individual order records? |
 
+---
 
 ### Business Impact & Insights
 
